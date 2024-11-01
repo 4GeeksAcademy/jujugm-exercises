@@ -1,9 +1,18 @@
 
-
-
-
+.btn-primary {
+    background-color: #E1306C;
+    margin-right: 5%;
+}
 
 .fab.fa-instagram {
     color: #E1306C;  /* Color oficial de Instagram */
     font-size: 24px;
+}
+
+.nav { background-color: white;
+    color: white;
+}
+
+.container-fluid {
+    color: #E1306C;
 }
